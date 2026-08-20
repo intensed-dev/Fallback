@@ -1,4 +1,8 @@
 # Fallback
+> [!WARNING]
+> This repo is outdated and does not follow the newest modrinth release **1.1.0 for 26.2**.
+
+
 Shared code for my datapacks
 
 ```
